@@ -1,7 +1,7 @@
 /*
  * In c++, there is <type_traits> header
  * this is for obtaining type information on compile-time
- * this code is an example of own trait
+ * this code is an example of own std traits
  *
  */
 #include <iostream>
